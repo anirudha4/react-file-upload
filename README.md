@@ -1,5 +1,5 @@
 # Live
-[View](https://react-file-upload-framer.netlify.app/)
+[React-file-uploader](https://react-file-upload-framer.netlify.app/)
 
 # Getting Started with Create React App
 
